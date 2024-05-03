@@ -15,7 +15,7 @@ class MyMessageBubble extends StatelessWidget {
               color: colors.primary, borderRadius: BorderRadius.circular(20)),
           child: const Padding(
             padding: EdgeInsets.symmetric(horizontal: 20, vertical: 10),
-            child: Text('Laboris duis dolore',
+            child: Text('Mis comentarios',
                 style: TextStyle(color: Colors.white)),
           ),
         ),
